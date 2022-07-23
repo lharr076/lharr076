@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<br>-Active Home Directory Lab</br>
+<br>-<a href="https://github.com/lharr076/Active-Directory-Home-Lab">Active Home Directory Lab</a></br>
 -Built SIEM sandbox for live cyver attacks on VM using Microsoft Azure
 <h2>✔My Certifcations</h2>
 - <a href="https://coursera.org/share/92632bfc96f641483c8694f60473d3ef">Google IT Support</a>
