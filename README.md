@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Larry! <br/><a href="https://www.linkedin.com/in/larry-harris-a08477211/">Cybersecurity Student</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- Active Home Directory Lab
+
+<h2>✔My Certifcations</h2>
+- <a href="https://coursera.org/share/92632bfc96f641483c8694f60473d3ef">Google IT Support</a>
+ <br>-<a href="https://drive.google.com/file/d/1-YRQbWSNVzbtQWR9v6nr_k3NziOxtWxc/view?usp=sharing">AXELOS ITILv4</a></br>
+-<a href="https://www.credly.com/badges/e20da740-13c1-4a57-a113-acdb56d28b55?source=linked_in_profile">CompTIA A+</a>
+
 
 <!--
-**lharr076/lharr076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
