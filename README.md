@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <br>-<a href="https://github.com/lharr076/Active-Directory-Home-Lab">Active Home Directory Lab</a></br>
--Built SIEM sandbox for live cyver attacks on VM using Microsoft Azure
-<br>-Vulnerbility Management using Nessus</br>
+<!-- -Built SIEM sandbox for live cyver attacks on VM using Microsoft Azure
+<br>-Vulnerbility Management using Nessus</br> >
 <h2>✔My Certifcations</h2>
 - <a href="https://coursera.org/share/92632bfc96f641483c8694f60473d3ef">Google IT Support</a>
  <br>-<a href="https://drive.google.com/file/d/1-YRQbWSNVzbtQWR9v6nr_k3NziOxtWxc/view?usp=sharing">AXELOS ITILv4</a></br>
