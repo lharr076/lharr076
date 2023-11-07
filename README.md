@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<br>-<a href="https://github.com/lharr076/Active-Directory-Home-Lab">Active Home Directory Lab</a></br>
+<br>-<a href="https://github.com/lharr076/AWS-Terraform-Deploy">Terraform Deploy Lab</a></br>
 <!-- -Built SIEM sandbox for live cyver attacks on VM using Microsoft Azure
 <br>-Vulnerbility Management using Nessus</br> >
 <h2>✔My Certifcations</h2>
