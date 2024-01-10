@@ -1,4 +1,4 @@
-<h1>Hi, I'm Larry! <br/><a href="https://www.linkedin.com/in/larry-harris-a08477211/">Cybersecurity Student</a></h1>
+<h1>Hi, I'm Larry! <br/><a href="https://www.linkedin.com/in/larry-harris-a08477211/">A cybersecurity student that loves to build and experiment with all things tech and tech alike.</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
